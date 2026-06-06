@@ -23,6 +23,7 @@ Skills:
 <br>
 -Problem Solving
 <br>
+<br>
 Goals:
 <br>
 -Become a Software Engineer
