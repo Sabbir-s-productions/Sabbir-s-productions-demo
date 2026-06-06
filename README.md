@@ -10,7 +10,7 @@
 <br>
 📚 Always curious about how software and games are made
 <br>
-
+<br>
 Skills:
 <br>
 -Python
