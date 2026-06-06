@@ -9,4 +9,4 @@
 📚 Always learning new technologies
 <br>
 
-"Small progress every day leads to big results."
+>>>"Small progress every day leads to big results."
