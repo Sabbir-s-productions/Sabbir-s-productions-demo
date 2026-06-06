@@ -12,14 +12,25 @@
 <br>
 
 Skills:
+<br>
 -Python
+<br>
 -Git & GitHub
+<br>
 -HTML & CSS
+<br>
 -Unreal Engine 5 (Learning)
+<br>
 -Problem Solving
+<br>
 Goals:
+<br>
 -Become a Software Engineer
+<br>
 -Build Realistic Games
+<br>
 -Contribute to Open Source Projects
+<br>
+<br>
 
 ⭐ Feel free to explore my repositories and connect with me!
