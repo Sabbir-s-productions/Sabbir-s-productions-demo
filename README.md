@@ -24,7 +24,7 @@ Skills:
 -Problem Solving
 <br>
 <br>
-Goals:
+🚀Goals:
 <br>
 -Become a Software Engineer
 <br>
