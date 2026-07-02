@@ -15,7 +15,7 @@ Skills:
 <br>
 -Python
 <br>
--Git & GitHub
+-Git & GitHub/
 <br>
 -HTML & CSS
 <br>
